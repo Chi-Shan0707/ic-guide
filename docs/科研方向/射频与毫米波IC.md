@@ -596,11 +596,11 @@ graph LR
 
     射频集成电路 | 毫米波前端 | 无线通信芯片
 
--   **[罗讯](https://ceie.szu.edu.cn/info/1016/3512.htm)** <span class="badge-other">深圳大学</span>
+-   **[罗讯](https://ceie.szu.edu.cn/info/1016/3512.htm)** <span class="badge-other">深大</span>
 
     数字射频集成电路 | 片上太赫兹通信 | 可重构无源电路与异构封装
 
--   **[杨秉正](https://ceie.szu.edu.cn/info/1018/5022.htm)** <span class="badge-other">深圳大学</span>
+-   **[杨秉正](https://ceie.szu.edu.cn/info/1018/5022.htm)** <span class="badge-other">深大</span>
 
     射频/微波/毫米波 IC | 太赫兹功率放大器 | 发射机集成电路
 
